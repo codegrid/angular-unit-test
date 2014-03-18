@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja" ng-app="myApp">
+<head>
+<meta charset="utf-8">
+<title>AngularJS unit test demo</title>
+<script src="lib/angular.js"></script>
+<script src="app.js"></script>
+</head>
+
+<body>
+  <div ng-controller="MainCtrl">
+    <form ng-submit="addMember()">
+      <input type="name" ng-model="newName" placeholder="new member name">
+      <input type="submit" value="Add Member">
+    </form>
+
+    <ul>
+      <li ng-repeat="member in members">{{member.name}}</li>
+    </ul>
+  </div>
+</body>
+
+</html>
