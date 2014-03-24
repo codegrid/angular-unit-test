@@ -2,7 +2,7 @@ angular-unit-test
 =======================
 # [攻略！AngularJS](https://app.codegrid.net/series/angularjs)
 
-[CodeGrid](http://www.codegrid.net/)の「[攻略！AngularJS](https://app.codegrid.net/series/angularjs)」の記事内で使用しているサンプルです。
+[CodeGrid](http://www.codegrid.net/)の「[攻略！AngularJS - ユニットテスト](https://app.codegrid.net/entry/angularjs-11)」の記事内で使用しているサンプルです。
 
 各サンプルの解説については上記記事をご確認ください。
 
