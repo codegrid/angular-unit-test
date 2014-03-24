@@ -17,5 +17,5 @@ angular-unit-test
 ### ユニットテストサンプル
 
 - `index.html` 簡単なWebアプリケーションのサンプル
-- `tests/index.hml` ユニットテストの表示結果
+- `tests/index.html` ユニットテストの表示結果
 - `tests/test.js` ユニットテストを行うJavaScriptコード
