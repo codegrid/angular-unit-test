@@ -22,7 +22,7 @@ describe('MainCtrl', function() {
   describe('scope.addMember', function() {
     beforeEach(function() {
       scope.newName = 'new user!';
-      scope.addMember({ name: 'new user!' });
+      scope.addMember();
     });
 
     it('scope.newNameの値がscope.membersに追加されること', function() {
